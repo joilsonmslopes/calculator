@@ -1,0 +1,17 @@
+body {
+  background: #7777772a;
+  font-family: Roboto, sans-serif;
+}
+
+.container {
+  width: 130px;
+  height: 130px;
+  background: black;
+  margin-top: 20px;
+}
+
+#res {
+  width: 130px;
+  height: 20px;
+  background-color: white;
+}
